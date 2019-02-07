@@ -1,0 +1,14 @@
+/*CATALOGUE样式*/
+.show-catalogue{width: 1140px;background-color: #fff;padding-top: -0.17%; border:1px solid #ecf0f1;position: absolute;z-index: 2;float: left;}
+.show-catalogue-inner{width: 95.4954%;padding-top: 2.7027%;margin:0 auto; }
+.ul-content{float: left;width: 25.00%;position: relative;}
+.ul-content>h2{font-family: arial;font-size: 18px;font-weight: bold;color: #000;text-align: left;}
+.ul-content>ul{width: 100%;list-style: none;text-align: left;}
+body .show-catalogue .show-catalogue-inner .ul-content>li{text-align: left;width: 100%;}
+body .show-catalogue .show-catalogue-inner .ul-content li a{font-family: arial;font-size: 0.8rem;color: #000;text-decoration: none;line-height:2.4;text-align: left;}
+body .show-catalogue .show-catalogue-inner .ul-content li a:hover{text-decoration: underline;}
+.show-catalogue .show-catalogue-inner>.ul-content:nth-child(1)>ul li .new-span,.show-catalogue .show-catalogue-inner>.ul-content:nth-child(2)>ul li .new-span,.show-catalogue .show-catalogue-inner>.ul-content:nth-child(3)>ul li .new-span,.show-catalogue .show-catalogue-inner>.ul-content:nth-child(4)>ul li .new-span{color: #fff;line-height:22px;font-family: arial;width: 35px;display: block;background-color: #3bb18f;text-align:center;border-radius: 4px;}
+.show-catalogue .show-catalogue-inner>.ul-content:nth-child(1)>ul li .new-span{position: absolute;left: 60px;z-index: 2;top: 150px;}
+.show-catalogue .show-catalogue-inner>.ul-content:nth-child(2)>ul li .new-span{position: absolute;left: 60px;z-index: 2;top: 200px;}
+.show-catalogue .show-catalogue-inner>.ul-content:nth-child(3)>ul li .new-span{position: absolute;left: 117px;z-index: 2;top: 58px;}
+.show-catalogue .show-catalogue-inner>.ul-content:nth-child(4)>ul li .new-span{position: absolute;left: 60px;z-index: 2;top: 200px;}
